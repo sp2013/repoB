@@ -1,0 +1,4 @@
+# Repo B: .gitmodules
+[submodule "utils"]
+    path = utils
+    url = https://github.com/sp2013/repoC.git
