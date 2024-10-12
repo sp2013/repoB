@@ -2,6 +2,3 @@
 [submodule "utils"]
 	path = utils
 	url = https://github.com/sp2013/repoC.git
-[submodule "repoC"]
-	path = repoC
-	url = https://github.com/sp2013/repoC.git
